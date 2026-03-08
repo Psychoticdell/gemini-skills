@@ -1,0 +1,5 @@
+{
+    "editor.defaultFormatter": "google.geminicodeassist",
+    "editor.fontFamily": "'Drop⁰id Sans Mono', monospace",
+    "chat.agent.maxRequests": 200
+}
