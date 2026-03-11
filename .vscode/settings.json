@@ -1,5 +1,10 @@
 {
     "editor.defaultFormatter": "google.geminicodeassist",
     "editor.fontFamily": "'Drop⁰id Sans Mono', monospace",
-    "chat.agent.maxRequests": 200
+    "chat.agent.maxRequests": 200,
+    "python.testing.pytestArgs": [
+        "skills"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
 }
